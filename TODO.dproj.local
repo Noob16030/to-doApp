@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.993,=C:\Users\l.duraj\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,=C:\Users\l.duraj\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,C:\Users\l.duraj\Desktop\td\UnitMain.pas=C:\Users\l.duraj\Desktop\td\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.151,C:\Users\l.duraj\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\l.duraj\Desktop\td\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.587,C:\Users\l.duraj\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\l.duraj\Desktop\td\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,C:\Users\l.duraj\Desktop\td\Project1.dproj=C:\Users\l.duraj\Desktop\td\TODO.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,C:\Users\l.duraj\Desktop\td\UnitMain.dfm=C:\Users\l.duraj\Desktop\td\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,=C:\Users\l.duraj\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.587,C:\Users\l.duraj\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\l.duraj\Desktop\td\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,=C:\Users\l.duraj\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
